@@ -9,7 +9,7 @@ The class project for [Getting and Cleaning Data](https://www.coursera.org/cours
 
 **Once those steps are complete, you can run the R script ([run_analysis.R](run_analysis.R)).**
 
-**The output of the R script is a tidy data set, [tidy.csv](tidy.csv).**
+**The output of the R script is a tidy data set, [tidydata.txt](tidydat.txt).**
 
 You can read more about the data and the analysis in the [code book](CodeBook.md).
 
