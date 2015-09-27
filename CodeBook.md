@@ -1,10 +1,10 @@
 ## Code Book
 
-This code book will describe the data used in this project, as well as the processing required to create the resulting tidy data set.
+This code book describes the data used in this project, as well as the processes required to create the resulting tidy data set.
 
 ### Overview
 
-30 volunteers performed 6 different activities while wearing a smartphone. The smartphone captured various data about their movements.
+Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
 ### Explanation of each file
 
